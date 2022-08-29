@@ -1,3 +1,3 @@
 import turtle
-x=5
+x=6
 printf(x)
